@@ -1,0 +1,11 @@
+
+- Voyager1
+	- size 25%
+	- leg cut
+- Voyager2
+	- size 55%
+	- no cut
+- Voyager S
+	- size 30%
+	- no cut 
+	- move center

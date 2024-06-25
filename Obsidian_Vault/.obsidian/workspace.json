@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "23afa486f3f29a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2e55036d9679d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7225ab4cce6b7755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3767c945ba0248dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Color Picker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53c4eba08f4f1e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd36d87da7ab9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438abf10aa5536f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c141386a11818c65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b88841405d9859c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d7d6a6588c26620",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5630967f71ad05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bafec981d89efedb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/Color Picker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58cbc38d4b17b014",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project/Color Picker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e969f1393e3fd15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6ade0b3cbd8240c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project/Color Picker.md"
+              }
+            }
+          },
+          {
+            "id": "8137d5dcf44bc32c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3767c945ba0248dd",
+  "lastOpenFiles": [
+    "Backgrounds/Seria.md",
+    "Project/Color Picker.md",
+    "Backgrounds/Voyager.md",
+    "Backgrounds/Wriothesley.md",
+    "Backgrounds/A Knight.md",
+    "Backgrounds/0 - Characters.md",
+    "Project/Docker.md",
+    "Excalidraw/Drawing 2024-02-27 14.21.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-27 14.21.36.excalidraw.md",
+    "Excalidraw",
+    "0 - Objectives/List.md",
+    "0 - Objectives",
+    "Repositories/Components_Portfollio.md",
+    "Repositories",
+    "Basic files/Dockerfile.md",
+    "Basic files",
+    "Project",
+    "Backgrounds/Crow.md",
+    "Backgrounds/Yae Miko.md",
+    "Backgrounds",
+    "Welcome.md"
+  ]
+}
